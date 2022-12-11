@@ -1,0 +1,14 @@
+# lancelot-user 11 RP1A.200720.011 V12.5.6.0.RJCMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6768
+- codename: lancelot
+- flavor: lineage_lancelot-userdebug
+- release: 13
+- id: TD1A.221105.001
+- incremental: eng.sakthi.20221202.113641
+- tags: test-keys
+- fingerprint: Redmi/lancelot_global/lancelot:11/RP1A.200720.011/V12.5.6.0.RJCMIXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: lancelot-user-11-RP1A.200720.011-V12.5.6.0.RJCMIXM-release-keys
+- repo: redmi_lancelot_dump
